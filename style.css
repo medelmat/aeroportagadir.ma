@@ -338,7 +338,6 @@ h3{
         }
     #apropos-content{
     	text-align: center;
-    	border:1px solid black;
     	float: none;
     }
     p{
@@ -347,14 +346,12 @@ h3{
     #text-content{
     	display: block;
     	width: 100%;
-    	border:1px solid black;
     	text-align: center;
 
     }
     #localisation{
     	display: block;
-    	width: 100%;
-    	border:1px solid black;
+    	width: 50%;
     	margin:0;
     }
 
